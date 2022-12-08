@@ -1,6 +1,6 @@
 # Cauli Wood Gallery
 
-[![gallery](cauliwood.png)](https://hesbon-osoro.github.io/Cauli-Wood-Gallery)
+[![gallery](assets/cauliwood.png)](https://hesbon-osoro.github.io/Cauli-Wood-Gallery)
 
 [`Demo`](https://hesbon-osoro.github.io/Cauli-Wood-Gallery)
 
